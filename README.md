@@ -17,7 +17,7 @@ Import the required libraries.
 
 Program:
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: Moid Vanak
+Developed by: KMoid Vanak
 RegisterNumber:  212223080033
 
 import pandas as pd
@@ -79,3 +79,20 @@ print(y_prednew)
 xnew=np.array([[0,0,0,0,0,2,8,2,0,0,1,0]])
 y_prednew=predict(theta,xnew)
 print(y_prednew)
+Output:
+DATASET:
+image
+Labelling data:
+image
+Lablling the column:
+image
+DependentVariables:
+image
+Accuracy:
+image
+Y:
+image
+New Predicted data:
+image
+Result:
+Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
